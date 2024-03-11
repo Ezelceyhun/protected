@@ -6,7 +6,6 @@ namespace uygulama3
         public Form1()
         {
             InitializeComponent();
-
             // Class1 c1 ;
             //c1.Property = 3;
         }
@@ -17,7 +16,9 @@ namespace uygulama3
             class1.Property = 1;
             //class1.a = 2;
             class1.Deneme();
-            MessageBox.Show(class1.b.ToString());
+            label1.Text = class1.b.ToString();
+            int topla = class1.b + class1.Property;
+            MessageBox.Show(topla.ToString());
         }
     }
 }

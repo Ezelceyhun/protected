@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ezelc\\Desktop\\uygulama3\\uygulama3.csproj",
+      "projectUniqueName": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\uygulama3.csproj",
       "projectName": "uygulama3",
-      "projectPath": "C:\\Users\\ezelc\\Desktop\\uygulama3\\uygulama3.csproj",
+      "projectPath": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\uygulama3.csproj",
       "packagesPath": "C:\\Users\\ezelc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ezelc\\Desktop\\uygulama3\\obj\\",
+      "outputPath": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ezelc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\ezelc\\Desktop\\ClassLib1\\ClassLib1.csproj": {
-              "projectPath": "C:\\Users\\ezelc\\Desktop\\ClassLib1\\ClassLib1.csproj"
+            "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\ClassLib1.csproj": {
+              "projectPath": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\ClassLib1.csproj"
             }
           }
         }

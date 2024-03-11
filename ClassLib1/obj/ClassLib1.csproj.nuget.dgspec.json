@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezelc\\Desktop\\ClassLib1\\ClassLib1.csproj": {}
+    "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\ClassLib1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezelc\\Desktop\\ClassLib1\\ClassLib1.csproj": {
+    "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\ClassLib1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezelc\\Desktop\\ClassLib1\\ClassLib1.csproj",
+        "projectUniqueName": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\ClassLib1.csproj",
         "projectName": "ClassLib1",
-        "projectPath": "C:\\Users\\ezelc\\Desktop\\ClassLib1\\ClassLib1.csproj",
+        "projectPath": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\ClassLib1.csproj",
         "packagesPath": "C:\\Users\\ezelc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezelc\\Desktop\\ClassLib1\\obj\\",
+        "outputPath": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezelc\\AppData\\Roaming\\NuGet\\NuGet.Config",

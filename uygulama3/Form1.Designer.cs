@@ -34,9 +34,10 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(247, 132);
+            label1.Font = new Font("Segoe UI", 15F);
+            label1.Location = new Point(114, 159);
             label1.Name = "label1";
-            label1.Size = new Size(50, 20);
+            label1.Size = new Size(81, 35);
             label1.TabIndex = 0;
             label1.Text = "label1";
             // 
@@ -44,9 +45,10 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(337, 360);
             Controls.Add(label1);
             Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
             ResumeLayout(false);

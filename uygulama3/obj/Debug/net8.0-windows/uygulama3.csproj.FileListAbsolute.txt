@@ -18,3 +18,24 @@ C:\Users\ezelc\Desktop\uygulama3\obj\Debug\net8.0-windows\refint\uygulama3.dll
 C:\Users\ezelc\Desktop\uygulama3\obj\Debug\net8.0-windows\uygulama3.pdb
 C:\Users\ezelc\Desktop\uygulama3\obj\Debug\net8.0-windows\uygulama3.genruntimeconfig.cache
 C:\Users\ezelc\Desktop\uygulama3\obj\Debug\net8.0-windows\ref\uygulama3.dll
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\bin\Debug\net8.0-windows\uygulama3.exe
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\bin\Debug\net8.0-windows\uygulama3.deps.json
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\bin\Debug\net8.0-windows\uygulama3.runtimeconfig.json
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\bin\Debug\net8.0-windows\uygulama3.dll
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\bin\Debug\net8.0-windows\uygulama3.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\bin\Debug\net8.0-windows\ClassLib1.dll
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\bin\Debug\net8.0-windows\ClassLib1.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\uygulama3.csproj.AssemblyReference.cache
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\uygulama3.Form1.resources
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\uygulama3.csproj.GenerateResource.cache
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\uygulama3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\uygulama3.AssemblyInfoInputs.cache
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\uygulama3.AssemblyInfo.cs
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\uygulama3.csproj.CoreCompileInputs.cache
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\uygulama3.sourcelink.json
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\uygulama3.csproj.Up2Date
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\uygulama3.dll
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\refint\uygulama3.dll
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\uygulama3.pdb
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\uygulama3.genruntimeconfig.cache
+C:\Users\ezelc\Desktop\Github Projeleri\uygulama3\uygulama3\obj\Debug\net8.0-windows\ref\uygulama3.dll
