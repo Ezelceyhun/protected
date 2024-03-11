@@ -1,0 +1,14 @@
+C:\Users\ezelc\Desktop\Uygulama2\bin\Debug\net8.0\Uygulama2.exe
+C:\Users\ezelc\Desktop\Uygulama2\bin\Debug\net8.0\Uygulama2.deps.json
+C:\Users\ezelc\Desktop\Uygulama2\bin\Debug\net8.0\Uygulama2.runtimeconfig.json
+C:\Users\ezelc\Desktop\Uygulama2\bin\Debug\net8.0\Uygulama2.dll
+C:\Users\ezelc\Desktop\Uygulama2\bin\Debug\net8.0\Uygulama2.pdb
+C:\Users\ezelc\Desktop\Uygulama2\obj\Debug\net8.0\Uygulama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezelc\Desktop\Uygulama2\obj\Debug\net8.0\Uygulama2.AssemblyInfoInputs.cache
+C:\Users\ezelc\Desktop\Uygulama2\obj\Debug\net8.0\Uygulama2.AssemblyInfo.cs
+C:\Users\ezelc\Desktop\Uygulama2\obj\Debug\net8.0\Uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\ezelc\Desktop\Uygulama2\obj\Debug\net8.0\Uygulama2.dll
+C:\Users\ezelc\Desktop\Uygulama2\obj\Debug\net8.0\refint\Uygulama2.dll
+C:\Users\ezelc\Desktop\Uygulama2\obj\Debug\net8.0\Uygulama2.pdb
+C:\Users\ezelc\Desktop\Uygulama2\obj\Debug\net8.0\Uygulama2.genruntimeconfig.cache
+C:\Users\ezelc\Desktop\Uygulama2\obj\Debug\net8.0\ref\Uygulama2.dll
