@@ -8,10 +8,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AD47727-9FF6-4E29-A989-26A7C274F79C}|..\\ClassLib1\\ClassLib1.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\uygulama3\\classlib1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C3188D3-680D-4371-A49E-6C5E79341EA1}|uygulama3.csproj|C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6C3188D3-680D-4371-A49E-6C5E79341EA1}|uygulama3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,7 +27,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T08:23:52.41Z",
               "IsPinned": true,
@@ -45,22 +41,10 @@
               "RelativeDocumentMoniker": "..\\ClassLib1\\Class1.cs",
               "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class1.cs",
               "RelativeToolTip": "..\\ClassLib1\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T12:34:55.618Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T08:23:15.606Z",
-              "EditorCaption": " [Tasar\u0131m]"
             }
           ]
         }

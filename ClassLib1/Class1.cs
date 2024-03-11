@@ -4,39 +4,34 @@
     {
         //protected kendi class'ın içindeyse doğrudan erişilebiliyor.
         public int Property { get; set; }
-        public int b;
-        protected int sayi = 0;
+        public int b {  get; set; }
+
         protected internal int a = 5;
         protected string islem()
         {
             a++;
-            return sayi.ToString();            
+            return a.ToString();            
         }
-
-       public void Deneme()
+        public void ver()
         {
             islem();
             b = a;
         }
-
-        class Class2: Class1
+        class Class2 : Class1
         {
-            void Deneme()
+            void gonder()
             {
                 islem();
-                sayi = 0;
                 a = 2;
             }
         }
-        class Class3:Class2
-        {           
-            void yap()
+        class Class3 : Class2
+        {
+            void al()
             {
                 islem();
-                sayi = 0;
                 a = 1;
             }
         }
     }
 }
-
