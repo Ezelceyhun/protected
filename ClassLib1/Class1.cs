@@ -16,22 +16,6 @@
         {
             islem();
             b = a;
-        }
-        class Class2 : Class1
-        {
-            void gonder()
-            {
-                islem();
-                a = 2;
-            }
-        }
-        class Class3 : Class2
-        {
-            void al()
-            {
-                islem();
-                a = 1;
-            }
-        }
+        }       
     }
 }

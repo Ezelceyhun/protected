@@ -3,11 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C3188D3-680D-4371-A49E-6C5E79341EA1}|uygulama3.csproj|C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AD47727-9FF6-4E29-A989-26A7C274F79C}|..\\ClassLib1\\ClassLib1.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\uygulama3\\classlib1\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD47727-9FF6-4E29-A989-26A7C274F79C}|..\\ClassLib1\\ClassLib1.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\uygulama3\\classlib1\\class6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3188D3-680D-4371-A49E-6C5E79341EA1}|uygulama3.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\uygulama3\\uygulama3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C3188D3-680D-4371-A49E-6C5E79341EA1}|uygulama3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6C3188D3-680D-4371-A49E-6C5E79341EA1}|uygulama3.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\uygulama3\\uygulama3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C3188D3-680D-4371-A49E-6C5E79341EA1}|uygulama3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD47727-9FF6-4E29-A989-26A7C274F79C}|..\\ClassLib1\\ClassLib1.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\uygulama3\\classlib1\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD47727-9FF6-4E29-A989-26A7C274F79C}|..\\ClassLib1\\ClassLib1.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\uygulama3\\classlib1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AD47727-9FF6-4E29-A989-26A7C274F79C}|..\\ClassLib1\\ClassLib1.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\uygulama3\\classlib1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD47727-9FF6-4E29-A989-26A7C274F79C}|..\\ClassLib1\\ClassLib1.csproj|c:\\users\\ezelc\\desktop\\github projeleri\\uygulama3\\classlib1\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,31 +36,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:33:12.044Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class5.cs",
+              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class5.cs",
+              "RelativeDocumentMoniker": "..\\ClassLib1\\Class5.cs",
+              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class5.cs",
+              "RelativeToolTip": "..\\ClassLib1\\Class5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:29:33.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\uygulama3\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAywIUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T08:23:52.41Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-03-12T06:06:26.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Class6.cs",
+              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class6.cs",
+              "RelativeDocumentMoniker": "..\\ClassLib1\\Class6.cs",
+              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class6.cs",
+              "RelativeToolTip": "..\\ClassLib1\\Class6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:48:40.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class4.cs",
+              "RelativeDocumentMoniker": "..\\ClassLib1\\Class4.cs",
+              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class4.cs",
+              "RelativeToolTip": "..\\ClassLib1\\Class4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T05:59:13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class3.cs",
+              "RelativeDocumentMoniker": "..\\ClassLib1\\Class3.cs",
+              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class3.cs",
+              "RelativeToolTip": "..\\ClassLib1\\Class3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T05:25:52.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class2.cs",
+              "RelativeDocumentMoniker": "..\\ClassLib1\\Class2.cs",
+              "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class2.cs",
+              "RelativeToolTip": "..\\ClassLib1\\Class2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T05:24:31.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class1.cs",
               "RelativeDocumentMoniker": "..\\ClassLib1\\Class1.cs",
               "ToolTip": "C:\\Users\\ezelc\\Desktop\\Github Projeleri\\uygulama3\\ClassLib1\\Class1.cs",
               "RelativeToolTip": "..\\ClassLib1\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T12:34:55.618Z",
               "EditorCaption": ""
