@@ -22,7 +22,7 @@ namespace ClassLib1
         {
             num3 = num2 + num1;
             return num3;
-            //geriye değer döndürmeli.
+            //geriye değer döndürmeli
         }
     }
     public class Bus : Class5

@@ -129,7 +129,7 @@ namespace uygulama3
             car.num1 = 30;
             car.num2 = 10;
             car.fuel();
-            textBox6.Text = "Arabanýn Yakýtý: " + car.num3 + Environment.NewLine; //satýr koymak için kullanýlýr.
+            textBox6.Text = "Arabanýn Yakýtý: " + car.num3 + Environment.NewLine; // --->  satýr koymak için kullanýlýr.
             Class5 bus = new Bus();
             bus.num1 = 50;
             bus.num2 = 10;
