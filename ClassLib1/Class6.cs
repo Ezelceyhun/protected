@@ -14,6 +14,7 @@ namespace ClassLib1
         public string Ram { get; set; }
         public string Info {  get; set; }
         public virtual void ozellik()
+            //virtual araştır 
         {
             Info = "Markası: " + Model+ "\nCPU: " + CPU+ "\nRAM: " + Ram;
             return;

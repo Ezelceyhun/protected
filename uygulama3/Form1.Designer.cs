@@ -52,16 +52,21 @@
             groupBox3 = new GroupBox();
             button3 = new Button();
             textBox6 = new TextBox();
+            groupBox4 = new GroupBox();
+            textBox7 = new TextBox();
+            button4 = new Button();
+            label11 = new Label();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             groupBox3.SuspendLayout();
+            groupBox4.SuspendLayout();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 10F);
-            label1.Location = new Point(12, 408);
+            label1.Location = new Point(350, 536);
             label1.Name = "label1";
             label1.Size = new Size(55, 23);
             label1.TabIndex = 0;
@@ -71,7 +76,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 10F);
-            label2.Location = new Point(12, 444);
+            label2.Location = new Point(350, 570);
             label2.Name = "label2";
             label2.Size = new Size(55, 23);
             label2.TabIndex = 1;
@@ -81,7 +86,7 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 10F);
-            label3.Location = new Point(12, 478);
+            label3.Location = new Point(350, 602);
             label3.Name = "label3";
             label3.Size = new Size(55, 23);
             label3.TabIndex = 2;
@@ -91,7 +96,7 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 10F);
-            label4.Location = new Point(12, 519);
+            label4.Location = new Point(350, 636);
             label4.Name = "label4";
             label4.Size = new Size(55, 23);
             label4.TabIndex = 3;
@@ -102,7 +107,7 @@
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Segoe UI", 10F);
-            label5.Location = new Point(12, 560);
+            label5.Location = new Point(350, 668);
             label5.Name = "label5";
             label5.Size = new Size(55, 23);
             label5.TabIndex = 4;
@@ -163,7 +168,7 @@
             groupBox1.Controls.Add(textBox2);
             groupBox1.Location = new Point(12, 12);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(466, 232);
+            groupBox1.Size = new Size(348, 232);
             groupBox1.TabIndex = 10;
             groupBox1.TabStop = false;
             groupBox1.Text = "Overloading";
@@ -179,7 +184,7 @@
             groupBox2.Controls.Add(label10);
             groupBox2.Controls.Add(label8);
             groupBox2.Controls.Add(label9);
-            groupBox2.Location = new Point(495, 12);
+            groupBox2.Location = new Point(366, 12);
             groupBox2.Name = "groupBox2";
             groupBox2.Size = new Size(526, 299);
             groupBox2.TabIndex = 11;
@@ -274,7 +279,7 @@
             // 
             groupBox3.Controls.Add(button3);
             groupBox3.Controls.Add(textBox6);
-            groupBox3.Location = new Point(495, 329);
+            groupBox3.Location = new Point(366, 317);
             groupBox3.Name = "groupBox3";
             groupBox3.Size = new Size(526, 199);
             groupBox3.TabIndex = 12;
@@ -299,11 +304,51 @@
             textBox6.Size = new Size(514, 115);
             textBox6.TabIndex = 0;
             // 
+            // groupBox4
+            // 
+            groupBox4.Controls.Add(textBox7);
+            groupBox4.Controls.Add(button4);
+            groupBox4.Controls.Add(label11);
+            groupBox4.Location = new Point(13, 250);
+            groupBox4.Name = "groupBox4";
+            groupBox4.Size = new Size(347, 124);
+            groupBox4.TabIndex = 13;
+            groupBox4.TabStop = false;
+            groupBox4.Text = "Override ve Virtual Kullanımı";
+            // 
+            // textBox7
+            // 
+            textBox7.Location = new Point(6, 27);
+            textBox7.Multiline = true;
+            textBox7.Name = "textBox7";
+            textBox7.Size = new Size(197, 34);
+            textBox7.TabIndex = 2;
+            // 
+            // button4
+            // 
+            button4.Location = new Point(209, 27);
+            button4.Name = "button4";
+            button4.Size = new Size(111, 34);
+            button4.TabIndex = 1;
+            button4.Text = "Ekle";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
+            // label11
+            // 
+            label11.AutoSize = true;
+            label11.Location = new Point(10, 88);
+            label11.Name = "label11";
+            label11.Size = new Size(58, 20);
+            label11.TabIndex = 0;
+            label11.Text = "label11";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1033, 592);
+            ClientSize = new Size(911, 700);
+            Controls.Add(groupBox4);
             Controls.Add(groupBox3);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
@@ -322,6 +367,8 @@
             groupBox2.PerformLayout();
             groupBox3.ResumeLayout(false);
             groupBox3.PerformLayout();
+            groupBox4.ResumeLayout(false);
+            groupBox4.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -352,5 +399,9 @@
         private GroupBox groupBox3;
         private Button button3;
         private TextBox textBox6;
+        private GroupBox groupBox4;
+        private Label label11;
+        private Button button4;
+        private TextBox textBox7;
     }
 }

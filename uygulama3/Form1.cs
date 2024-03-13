@@ -68,7 +68,7 @@ namespace uygulama3
             class4.carp(2, 4);
             label5.Text = "Çarpma Ýþlemi: " + class4.top + "  |  Z Deðiþkeni: " + class4.z;
             class4.topla(2, 4);
-            label5.Text += " Toplama Ýþlemi: " + class4.top + "  |  Z Deðiþkeni: " + class4.z;
+            label5.Text += " Toplama Ýþlemi: " + class4.top + "  |  Z Deðiþkeni: " + class4.z;         
         }
 
         private void label4_Click(object sender, EventArgs e)
@@ -135,6 +135,15 @@ namespace uygulama3
             bus.num2 = 10;
             bus.fuel();
             textBox6.Text += "Otobüsün Yakýtý: " + bus.num3;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            //override ve virtual örnek
+            User user = new User();
+            string tb = textBox7.Text;
+            user.Insert(tb);
+            label11.Text = user.message;
         }
     }
 }
